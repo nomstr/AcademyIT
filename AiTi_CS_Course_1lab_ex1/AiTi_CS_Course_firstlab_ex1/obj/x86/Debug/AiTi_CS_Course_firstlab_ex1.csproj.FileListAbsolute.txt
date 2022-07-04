@@ -1,0 +1,5 @@
+E:\Labfiles\Labs\AiTi_CS_Course_firstlab_ex1\AiTi_CS_Course_firstlab_ex1\bin\Debug\AiTi_CS_Course_firstlab_ex1.exe
+E:\Labfiles\Labs\AiTi_CS_Course_firstlab_ex1\AiTi_CS_Course_firstlab_ex1\bin\Debug\AiTi_CS_Course_firstlab_ex1.pdb
+E:\Labfiles\Labs\AiTi_CS_Course_firstlab_ex1\AiTi_CS_Course_firstlab_ex1\obj\x86\Debug\AiTi_CS_Course_firstlab_ex1.exe
+E:\Labfiles\Labs\AiTi_CS_Course_firstlab_ex1\AiTi_CS_Course_firstlab_ex1\obj\x86\Debug\AiTi_CS_Course_firstlab_ex1.pdb
+E:\Labfiles\Labs\AiTi_CS_Course_firstlab_ex1\AiTi_CS_Course_firstlab_ex1\bin\Debug\DataFile.txt
